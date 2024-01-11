@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dębowa ciemna",
+      "width": 65,
+      "height": 210,
+      "image": "/images/TD6t.png",
+      "description": "Trumna „Dębowa ciemna” wykonana jest z sezonowanego drewna dębowego.",
+      "productType": "coffin",
+      "price": 2800
+    },
+    {
+      "id": 2,
+      "name": "Hiszpańska Jasna",
+      "width": 65,
+      "height": 210,
+      "image": "/images/TD5.png",
+      "description": "Trumna „Hiszpańska Jasna” wykonana jest z sezonowanego drewna dębowego.",
+      "productType": "coffin",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "name": "Amerykanka Olchowa Biała",
+      "width": 65,
+      "height": 210,
+      "image": "/images/TO8b.png",
+      "description": "Trumna „Amerykanka Olchowa Biała” wykonana jest z sezonowanego drewna olchowego.",
+      "productType": "coffin",
+      "price": 2100
+    },
+    {
+      "id": 4,
+      "name": "Papieska Olchowa Cieniowana",
+      "width": 65,
+      "height": 210,
+      "image": "/images/TO3ci.png",
+      "description": "Trumna „Papieska Olchowa Cieniowana” wykonana jest z sezonowanego drewna olchowego.",
+      "productType": "coffin",
+      "price": 2350
+    },
+    {
+      "id": 5,
+      "name": "Olchowa czarna",
+      "width": 65,
+      "height": 210,
+      "image": "/images/TO2cz-1.png",
+      "description": "Trumna „Olchowa czarna” wykonana jest z sezonowanego drewna olchowego.",
+      "productType": "coffin",
+      "price": 2600
+    },
+    {
+      "id": 6,
+      "name": "Szklana czarna",
+      "width": 25,
+      "height": 50,
+      "image": "/images/UScz.png",
+      "description": "Urna „Szklana czarna” wykonana jest z czarnego szkła.",
+      "productType": "urn",
+      "price": 820
+    },
+    {
+      "id": 7,
+      "name": "Szklana biała",
+      "width": 25,
+      "height": 50,
+      "image": "/images/USs.png",
+      "description": "Urna „Szklana biała wykonana jest z białego szkła.",
+      "productType": "urn",
+      "price": 820
+    },
+    {
+      "id": 8,
+      "name": "Mosiężna z krzyżem",
+      "width": 25,
+      "height": 50,
+      "image": "/images/UMS-3.png",
+      "description": "Urna „Mosiężna z krzyżem” wykonana jest z mosiądzu.",
+      "productType": "urn",
+      "price": 1050
+    },
+    {
+      "id": 9,
+      "name": "Kompozytowy marmur",
+      "width": 25,
+      "height": 50,
+      "image": "/images/UMK4-paj-zl-cz.png",
+      "description": "Urna „Kompozytowy marmur” wykonana jest z kompozytu.",
+      "productType": "urn",
+      "price": 1200
+    },
+    {
+      "id": 10,
+      "name": "Drewniane serce",
+      "width": 25,
+      "height": 50,
+      "image": "/images/DN-90b3.png",
+      "description": "Urna „Drewniane serce” wykonana jest z drewna.",
+      "productType": "urn",
+      "price": 1200
+    },
+    {
+      "id": 11,
+      "name": "Wybicie do Amerykanek",
+      "width": null,
+      "height": null,
+      "image": "/images/WBA.png",
+      "description": "Wybicie do trumny typu „Amerykanka”",
+      "productType": "accessory",
+      "price": 600
+    },
+    {
+      "id": 12,
+      "name": "Wybicie premium",
+      "width": null,
+      "height": null,
+      "image": "/images/TP1-otwarta-premium-1.png",
+      "description": "Wybicie do trumny typu „Premium”",
+      "productType": "accessory",
+      "price": 700
+    },
+    {
+      "id": 13,
+      "name": "Wybicie Lux Złote",
+      "width": null,
+      "height": null,
+      "image": "/images/WBLgold.png",
+      "description": "Wybicie do trumny typu „Lux Złote”",
+      "productType": "accessory",
+      "price": 800
+    },
+    {
+      "id": 14,
+      "name": "Wybicie Lux Białe",
+      "width": null,
+      "height": null,
+      "image": "/images/WBLwhite.png",
+      "description": "Wybicie do trumny typu „Lux Białe”",
+      "productType": "accessory",
+      "price": 750
+    },
+    {
+      "id": 15,
+      "name": "Wybicie Standardowe",
+      "width": null,
+      "height": null,
+      "image": "/images/WBS.png",
+      "description": "Wybicie do trumny typu „Standard”",
+      "productType": "accessory",
+      "price": 550
+    }
+  ]
+}
